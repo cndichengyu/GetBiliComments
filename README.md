@@ -3,7 +3,9 @@
 ## 项目简介
 
 这是一个用于爬取B站（哔哩哔哩）视频评论的Python工具，支持批量爬取多个视频的评论数据，并将结果保存为CSV格式。
+## Star History
 
+[![Star History Chart](https://api.star-history.com/image?repos=cndichengyu/GetBiliComments&type=date&legend=top-left)](https://www.star-history.com/?repos=cndichengyu%2FGetBiliComments&type=date&legend=top-left)
 ## 功能特性
 
 - ✅ 支持解析b23.tv短链接，自动获取真实BV号
